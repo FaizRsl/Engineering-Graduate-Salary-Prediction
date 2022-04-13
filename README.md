@@ -35,7 +35,6 @@ images
 presentation
         
         Presentation.pdf
-        Transcript.pdf
        
 File Descriptions
 -----------------
@@ -57,9 +56,4 @@ presentation/Presentation.pdf
     A PDF copy of the presentation slides (video presentation not available in 
     this repository).
 
-presentation/Transcript.pdf
-    
-    A PDF copy of the transcript for the video presentation (video 
-    presentation not available in this repository).
-    
 
