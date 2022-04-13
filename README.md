@@ -4,10 +4,13 @@ Repository Description
 ----------------------
 
 Faiz Bin Rosli (FAIZ007@e.ntu.edu.sg)
+
 Kang Jun Hui Bryan (KANG0121@e.ntu.edu.sg)
+
 Low Zheng Han (ZLOW030@e.ntu.edu.sg)
 
 School of Computer Science and Engineering
+
 Nanyang Technological University
 
 Apr 2022
@@ -19,13 +22,18 @@ Artificial Intelligence).
 Repository Contents
 -------------------
 
-│   Project.ipynb
-│   README.txt
-|
-└───images
+Project.ipynb
+
+LICENSE
+        
+README.txt
+
+images
+        
         graduates.png
-│   
-└───presentation
+
+presentation
+        
         Presentation.pdf
         Transcript.pdf
        
@@ -33,16 +41,24 @@ File Descriptions
 -----------------
 
 Project.ipynb
+    
     A Jupyter Notebook containing the main source code for the project.
+    
+LICENSE
+
+    The licensing information for this project.
 
 README.txt (this file)
+    
     Basic information about the project repository.
     
 presentation/Presentation.pdf
+    
     A PDF copy of the presentation slides (video presentation not available in 
     this repository).
 
 presentation/Transcript.pdf
+    
     A PDF copy of the transcript for the video presentation (video 
     presentation not available in this repository).
     
