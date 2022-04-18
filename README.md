@@ -28,8 +28,8 @@ Conclusion
 
 > - ####  Our predictor variables have very low correlation to our response variable(Salary) 
 >   - From the plotted graph, we deduced that 10th percentage and 12th percentage have a linear relationship hence we decided to drop 10percentage, as it is redundant.
->  -- Where our highest correlation to Salary is Quant of 0.24.
->  --  Hence, we can conclude that the R^2 of our model will be low
+>   - Where our highest correlation to Salary is Quant of 0.24.
+>   -  Hence, we can conclude that the R^2 of our model will be low
 > - ####  With the vast amount of specialization, we decided grouped everything that is less than 10 into others category
 > - #### Normalized all variables with one-hot encoding as when we do further analysis, like multivariate linear regression, for example, the attributed income will intrinsically influence the result more due to its larger value. But this doesn't necessarily mean it is more important as a predictor. So we normalize the data to bring all the variables to the same range.
 > - #### After using LinearRegression model, we used to other models to compare with our LinearRegression, with conclusions shows that our LinearRegression model shows the best fir for the the datasets as compared to other models, with Gradient Boosting model confirming that it gives the maximum and best fit of the data set having the lowest RMSE and MAPE
