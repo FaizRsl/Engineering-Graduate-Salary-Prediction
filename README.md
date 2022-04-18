@@ -27,7 +27,7 @@ Conclusion
 -----------------------
 
 > - ####  Our predictor variables have very low correlation to our response variable(Salary) 
-   - - From the plotted graph, we deduced that 10th percentage and 12th percentage have a linear relationship hence we decided to drop 10percentage, as it is redundant.
+  >  - From the plotted graph, we deduced that 10th percentage and 12th percentage have a linear relationship hence we decided to drop 10percentage, as it is redundant.
 >  -- Where our highest correlation to Salary is Quant of 0.24.
 >  --  Hence, we can conclude that the R^2 of our model will be low
 > - ####  With the vast amount of specialization, we decided grouped everything that is less than 10 into others category
