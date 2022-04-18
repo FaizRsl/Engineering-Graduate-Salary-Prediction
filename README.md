@@ -1,5 +1,51 @@
 # Engineering-Graduate-Salary-Prediction
 
+
+About
+----------------------
+Mini-Project for SC1015 ( Introduction to Data Science and Artificial Intelligence) using a dataset from kaggle
+Dataset from Kaggle : **"Engineering Graduate Salary Prediction"** by *Manish Kc*  
+Source: https://www.kaggle.com/datasets/manishkc06/engineering-graduate-salary-prediction
+
+
+Problem Definition
+----------------------
+How can (engineering?) undergraduates predict their expected salary?
+- Does it pay well?
+- Is there demand for what i'm currently studying?
+- What can I expect for various different jobs under engineering?
+
+
+Models Used
+----------------------
+- Linear Regression
+- XGBoost
+- ADABoost
+- Gradient Boosting
+
+Conclusion
+-----------------------
+
+> - ####  Our predictor variables have very low correlation to our response variable(Salary) 
+     - From the plotted graph, we deduced that 10th percentage and 12th percentage have a linear relationship hence we decided to drop 10percentage, as it is redundant.
+     - Where our highest correlation to Salary is Quant of 0.24.
+     - Hence, we can conclude that the R^2 of our model will be low
+> - ####  With the vast amount of specialization, we decided grouped everything that is less than 10 into others category
+> - #### Normalized all variables with one-hot encoding as when we do further analysis, like multivariate linear regression, for example, the attributed income will intrinsically influence the result more due to its larger value. But this doesn't necessarily mean it is more important as a predictor. So we normalize the data to bring all the variables to the same range.
+> - #### After using LinearRegression model, we used to other models to compare with our LinearRegression, with conclusions shows that our LinearRegression model shows the best fir for the the datasets as compared to other models, with Gradient Boosting model confirming that it gives the maximum and best fit of the data set having the lowest RMSE and MAPE
+
+
+Reflection
+-----------------------
+> - #### We started to explore on problems of our everyday lives and it came to formulate our problems definition.
+> - #### Using techniques of handling the data set, exploratory analysis, data visualization efficiently.
+> - #### Learning to utilize powerful regression model such as XGBoost, ADABoost and Gradient boosting.
+> - #### Realising that lower R^2 model doesn't meant that its a bad fit of model for the dataset.
+> - #### Version control using github
+> - #### Methods using VIF Score, Backward Elimination.
+> - #### One hot encoding to normalized the vast range of the dataset
+
+
 Repository Description
 ----------------------
 
