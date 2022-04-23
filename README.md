@@ -101,5 +101,15 @@ presentation/Presentation.pdf
     
     A PDF copy of the presentation slides (video presentation not available in 
     this repository).
+    
+    
+## References
 
+> - XGBoost : https://xgboost.readthedocs.io/en/stable/
+> - ADABoost : https://www.analyticsvidhya.com/blog/2021/09/adaboost-algorithm-a-complete-guide-for-beginners/
+> - Gradient boosting : https://en.wikipedia.org/wiki/Gradient_boosting
+> - Low R^2 : https://blog.minitab.com/en/adventures-in-statistics-2/how-to-interpret-a-regression-model-with-low-r-squared-and-low-p-values
+> - Engineering Salary Prediction Dataset: https://www.kaggle.com/datasets/manishkc06/engineering-graduate-salary-prediction
+> - VIF Score : https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/#:~:text=%E2%80%9C,-or&text=VIF%20score%20of%20an%20independent,explained%20by%20other%20independent%20variables.&text=So%2C%20the%20closer%20the%20R,with%20the%20particular%20independent%20variable.
+> - One Hot Encoding : https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
 
