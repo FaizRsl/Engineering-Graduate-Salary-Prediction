@@ -101,7 +101,14 @@ presentation/Presentation.pdf
     
     A PDF copy of the presentation slides (video presentation not available in 
     this repository).
-    
+
+|   Members:    |   Worked On:  |
+| ------------- | ------------- |
+| All (Various Contributions)  | Datasets & Data Visualization  |
+| All (Various Contributions)  | Filtering & Cleaning of Data  |
+| Faiz  | OLS Regression & XGBoost  |
+| Bryan  | ADABoost & GradiantBoosting  |
+| Zheng Han  | Presentation Slides & Video  |
     
 ## References
 
